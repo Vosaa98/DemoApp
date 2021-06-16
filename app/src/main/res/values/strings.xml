@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="paging3_library">Paging3 library</string>
+</resources>
